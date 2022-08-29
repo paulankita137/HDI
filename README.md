@@ -1,3 +1,3 @@
-# SHS
+# HDI
 
 Computation Toolbox for Sleep 
